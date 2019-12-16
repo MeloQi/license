@@ -2,6 +2,6 @@ package machineid
 
 import "github.com/denisbrodbeck/machineid"
 
-func GetMachineid() (string, error) {
-	return machineid.ID()
+func GetMachineid(appID string) (string, error) {
+	return machineid.ProtectedID(appID)
 }
