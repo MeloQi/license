@@ -1,0 +1,8 @@
+github.com/andlabs/ui v0.0.0-20180902183112-867a9e5a498d h1:4ianvxb8s3oyizgjuWWxGuTAUU+6JStcvj6BuHS4PVY=
+github.com/andlabs/ui v0.0.0-20180902183112-867a9e5a498d/go.mod h1:5G2EjwzgZUPnnReoKvPWVneT8APYbyKkihDVAHUi0II=
+github.com/ant0ine/go-json-rest v3.3.2+incompatible h1:nBixrkLFiDNAW0hauKDLc8yJI6XfrQumWvytE1Hk14E=
+github.com/ant0ine/go-json-rest v3.3.2+incompatible/go.mod h1:q6aCt0GfU6LhpBsnZ/2U+mwe+0XB5WStbmwyoPfc+sk=
+github.com/denisbrodbeck/machineid v1.0.1 h1:geKr9qtkB876mXguW2X6TU4ZynleN6ezuMSRhl4D7AQ=
+github.com/denisbrodbeck/machineid v1.0.1/go.mod h1:dJUwb7PTidGDeYyUBmXZ2GphQBbjJCrnectwCyxcUSI=
+golang.org/x/sys v0.0.0-20191210023423-ac6580df4449 h1:gSbV7h1NRL2G1xTg/owz62CST1oJBmxy4QpMMregXVQ=
+golang.org/x/sys v0.0.0-20191210023423-ac6580df4449/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
