@@ -5,7 +5,7 @@ import (
 )
 
 func TestGenLic(t *testing.T) {
-	key := `0123!@#$%%^*abcd`
+	key := `0113!@#$%%^*abcd`
 	licInfo := &LicInfo{
 		Type:      "trial",
 		Org:       "topsic",

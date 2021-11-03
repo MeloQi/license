@@ -45,7 +45,7 @@ func clientPost(org, applicant, user, appname, exp, machineid, key string, t *te
 		t.Fail()
 		return "", err
 	}
-	url := "http://127.0.0.1:8081/lic/getlic/" + key
+	url := "http://127.0.0.1/lic/getlic/" + key
 	resp, err := http.Post(url, "application/json", strings.NewReader(string(reqStr)))
 	if err != nil {
 		t.Error(err)
